@@ -1,18 +1,18 @@
 # Chapter Breakdown
 
-Num | Title | Author | Checked
+Num | Title | Author | Completed | Checked
 --- | ----- | ------ | -------
-1 | Introduction | Patrick | No
-2 |  |  | No
-3 |  |  | No
-4 |  |  | No
-5 |  |  | No
-6 |  |  | No
-7 |  |  | No
-8 | Birdwatching Case Assessments | Matt | No
-9 |  |  | No
-10 |  |  | No
-11 |  |  | No
+1 | Introduction | Patrick | No | No 
+2 |  |  | No | No 
+3 |  |  | No | No 
+4 |  |  | No | No 
+5 |  |  | No | No 
+6 |  |  | No | No 
+7 |  |  | No | No 
+8 | Birdwatching Case Assessments | Matt | No | No 
+9 |  |  | No | No 
+10 |  |  | No | No 
+11 |  |  | No | No 
 
 
 # DataCamp Template Course
