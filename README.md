@@ -1,7 +1,7 @@
 # Chapter Breakdown
 
 Num | Title | Author | Completed | Checked
---- | ----- | ------ | -------
+--- | ----- | ------ | ------- | -------
 1 | Introduction | Patrick | No | No 
 2 |  |  | No | No 
 3 |  |  | No | No 
