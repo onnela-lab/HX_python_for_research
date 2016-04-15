@@ -3,9 +3,17 @@
 Num | Title | Author | Checked
 --- | ----- | ------ | -------
 1 | Introduction | Patrick | No
-1 | Introduction | Patrick | No
-1 | Introduction | Patrick | No
-1 | Introduction | Patrick | No
+2 |  |  | No
+3 |  |  | No
+4 |  |  | No
+5 |  |  | No
+6 |  |  | No
+7 |  |  | No
+8 | Birdwatching Case Assessments | Matt | No
+9 |  |  | No
+10 |  |  | No
+11 |  |  | No
+
 
 # DataCamp Template Course
 <a href=https://www.datacamp.com/teach/repositories/56177660/go target="_blank"><img src="https://s3.amazonaws.com/assets.datacamp.com/img/github/content-engineering-repos/course_button.png" width="150"></a>
